@@ -1,0 +1,19 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenv
+venv/
+.env/
+
+# Fichiers de log / sortie
+*.log
+*.csv
+*.pdf
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+.DS_Store
